@@ -1,7 +1,7 @@
 {
-  "name": "Haruka-Md",
+  "name": "Doro-MD",
   "version": "9.0.1",
-  "description": "whatsapp tob with multi device.",
+  "description": "Social_Pocolee for DOS",
   "main": "haruka.js",
   "directories": {
     "lib": "lib"
