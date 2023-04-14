@@ -4,7 +4,7 @@
     "botName": "Poco's Bot ",
     "footer": "Your mind go dey",
     "sessionName": "session",
-    "fotoDonasi": "https://qr1.be/Q6ON",
+    "fotoDonasi": "./Q6ON.png",
     "pathimg": "./Haruka.jpg",
     "BotKey": "VdFlEL76",
     "auto_welcomeMsg": false,
