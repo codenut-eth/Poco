@@ -12,10 +12,10 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2022",
-    "baileys-md"
+    "2023",
+    "Doro-MD"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Doro",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "^4.4.0",
